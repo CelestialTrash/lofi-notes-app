@@ -162,25 +162,25 @@
     }
     
     .socials {
-        margin-top: 1rem;
+        margin-top: 0.1rem;
         display: flex;
         justify-content: space-evenly;
         align-items: center;
     }
     
     .github {
-        width: 6rem;
+        width: 5rem;
     }
     
     .linkedin {
-        width: 4rem;
+        width: 3rem;
     }
     
     .about-return-btn {
-        width: 8rem;
-        height: 6.6rem;
+        width: 6rem;
+        height: 5rem;
         position: absolute;
-        bottom: 0;
+        bottom: 45px;
         margin-bottom: 16%;
         background-image: url(../assets/return-icon.png);
         background-size: cover;

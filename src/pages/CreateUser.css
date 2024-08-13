@@ -108,7 +108,7 @@
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
-  z-index: 6;
+  z-index: 5;
 }
 
 #create-cloud1 {
